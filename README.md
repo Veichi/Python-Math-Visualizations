@@ -10,10 +10,8 @@ A fractal generated using an Iterated Function System, consisting of several aff
 
 Animated Sine & Cosine Waves
 
-Simple animation of sine and cosine waves. You can change their amplitude and frequency on these lines 
--
-sin_line.set_ydata(4*np.sin(x + frame/10))
-cos_line.set_ydata(3*np.cos(x + frame/10))
+A simple animation of sin and cosine waves
+Amplitude and Frequency/Period can be changed on lines #18 and #19
 
 #Tools Needed
 
